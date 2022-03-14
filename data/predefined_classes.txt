@@ -1,15 +1,13 @@
-dog
-person
-cat
-tv
-car
-meatballs
-marinara sauce
-tomato soup
-chicken noodle soup
-french onion soup
-chicken breast
-ribs
-pulled pork
-hamburger
-cavity
+pet_bottle
+plastic_wrapper 
+ldpe_wrapper
+hdpe_bottle
+paper
+pp
+aluminium_foil
+multilayer_plastic
+ps
+cardboard
+blister_pack
+aluminium_can
+tetrapack
